@@ -392,6 +392,7 @@ def delete_ott():
         id = int(input("Enter OTT ID: "))
         query = "DELETE FROM OTT WHERE OTT_UID = (%s)" % (id)
         cur.execute(query)
+        con.commit()
         print('Succesfully deleted the OTT Platform(s)!')
         input('Press any key to continue>')
     except Exception as e:
