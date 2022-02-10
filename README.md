@@ -2,9 +2,10 @@
 
 ## About the Project
 
-* There are two parts to this project
-** Creating the database and defining all tables, and loading it with relevant data - MySQL CLI
-** Performing queries on the database: at least 5 queries & 3 updates (all functional requirements to be satisfied too) -  Create a Python script that can connect to the database using MySQL. 
+- There are two parts to this project
+
+-- Creating the database and defining all tables, and loading it with relevant data - MySQL CLI
+-- Performing queries on the database: at least 5 queries & 3 updates (all functional requirements to be satisfied too) -  Create a Python script that can connect to the database using MySQL. 
 
 ## List of all commands
 
