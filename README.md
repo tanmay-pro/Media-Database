@@ -4,7 +4,7 @@
 
 - There are two parts to this project
   - Creating the database, defining all tables, and loading it with relevant data - MySQL CLI
-  - Performing queries on the database: Creating a Python script that can connect to the database using MySQL. 
+  - Performing queries on the database: Creating a Python script that can connect to the database using MySQL
 
 ## List of all commands
 
